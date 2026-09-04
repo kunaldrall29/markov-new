@@ -1,0 +1,7 @@
+- Building Markov (markov.trade) for Colosseum Crypto World’s Fair, 14 Sep–12 Oct 2026 [2026-09-04]
+- Markov product: B1 after-hours isolated perps on tokenized US equity trackers (xStocks), starting NVDAx and TSLAx; B3 permissionless listing factory is roadmap only [2026-09-04]
+- Markov v1: two-sided RFQ not a pool, 3x max leverage, isolated markets, no token/points [2026-09-04]
+- Founder pack saved at artifacts/markov-docs/ and artifacts/Markov_Founder_Pack_v0.1.zip [2026-09-04]
+- Landing + waitlist at artifacts/markov-landing/index.html; 18s teaser at artifacts/markov-landing/assets/video/teaser.mp4 [2026-09-04]
+- Earlier Aftertape name retired; all docs rebranded to Markov [2026-09-04]
+- User handle kunaldrall / kunaldrall_; based in India (Delhi/Dadri area); targeting Superteam India plus Colosseum [2026-09-04]

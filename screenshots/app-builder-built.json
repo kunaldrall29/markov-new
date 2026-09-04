@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Markov — After-hours isolated perps on NVDAx and TSLAx",
+      "hasCanvas": false,
+      "bodyTextLen": 3059,
+      "bodyTextHash": "d028a2fa977c50b808c2ddb96d4dcd99925a6587398bfd251b12638e97561be0",
+      "bodyTextPrefix": "MARKOV Book Markets Rules Access CASH · 10:30 ET Early access NV",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Markov — After-hours isolated perps on NVDAx and TSLAx",
+      "hasCanvas": false,
+      "bodyTextLen": 3017,
+      "bodyTextHash": "e0fa4c7cce6364eac401bae70e028321caec848b8a4d061e1fbca312525f2278",
+      "bodyTextPrefix": "MARKOV Early access NVDAX-PERP / TSLAX-PERP / ISOLATED VAULTS / ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
